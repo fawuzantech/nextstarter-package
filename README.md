@@ -66,4 +66,3 @@ Contributions are welcome! Please see the [Contribution Guidelines](CONTRIBUTING
 
 ---
 
-Feel free to customize the documentation as needed for your specific project. This template provides a structured overview of the Next.js starter pack, including its features, usage instructions, included packages, license, and contribution guidelines.
