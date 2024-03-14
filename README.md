@@ -1,4 +1,5 @@
 
+
 # Next.js Starter Pack
 
 The Next.js Starter Pack is a comprehensive bundle designed to kickstart your Next.js projects with essential packages pre-installed and configured. It includes popular tools and libraries such as Tailwind CSS, React, TypeScript, Prisma, and more, to provide a solid foundation for building modern web applications.
@@ -14,7 +15,6 @@ The Next.js Starter Pack is a comprehensive bundle designed to kickstart your Ne
 ## Requirements
 
 Before using the Next.js Starter Pack, ensure you have the following prerequisites installed:
-
 - Node.js and npm (Node Package Manager)
 - Git (optional but recommended for version control)
 
@@ -25,7 +25,7 @@ To get started with the Next.js Starter Pack, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/nextjs-starter-pack.git
+   git clone https://github.com/fawuzantech/nextjs-starter-pack.git
    ```
 
 2. Navigate to the project directory:
